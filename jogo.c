@@ -86,7 +86,7 @@ int main(void){
 
 
         //o else determina o decremento da quantidade
-        //de jogadas, para que nao seja contada uma jogada invalida;
+        //de jogadas, para que nao seja contada uma jogada invalida;//
 
         else{
             printf("\n\t\tEspaco ocupado. Faça outra jogada\n");
